@@ -6,6 +6,13 @@
   * dependencies
     * @opentelemetry/instrumentation-user-interaction bumped from ^0.30.0 to ^0.30.1
 
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @opentelemetry/instrumentation-document-load bumped from ^0.30.0 to ^0.30.1
+    * @opentelemetry/instrumentation-user-interaction bumped from ^0.31.0 to ^0.31.1
+
 ## [0.30.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/auto-instrumentations-web-v0.29.1...auto-instrumentations-web-v0.30.0) (2022-09-02)
 
 
